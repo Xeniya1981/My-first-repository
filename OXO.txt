@@ -69,4 +69,4 @@ while True:
         break
     if count == 9:
         print(" Ничья!")
-        break
+        break 
